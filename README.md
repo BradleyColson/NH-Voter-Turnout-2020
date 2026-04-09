@@ -1,5 +1,5 @@
 # NH-Voter-Turnout-2020
-Identify key blue voting areas
+Identify Key Blue Voting Areas
 
 # Voting
 ### Analyzising voter turn out for 2020 Presidential election in New Hampshire
@@ -9,12 +9,7 @@ Use MySQL to discover deep blue voter areas over 50% in New Hampshire Presidenti
 ### Project Overview
 The Goal: I used MySQL to identify "Deep Blue" strongholds and see how turnout shifted across New Hampshire's 10 counties in the 2020 Presidential election.
 
-Technical Process:
-The trickiest part was the aggregation. NH reports data at the ward level, but to see the real impact, I had to write SQL queries that consolidated those wards into full city/town totals (especially for bigger hubs like Manchester and Nashua).
-
 What the Data Showed:
-
-The University Factor: My analysis confirmed that university towns are the biggest outliers. Hanover and Durham saw margins of +74% and +52% respectively.
 
 The Battlegrounds: I found that while the big cities (Manchester/Nashua) are blue, mid-sized towns like Merrimack and Bedford are the real "purple" areas where the margins were razor-thin (under 5%).
 
