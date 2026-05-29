@@ -1,8 +1,8 @@
-# NH-Voter-Turnout-2020
+# NH-Voter-Turnout-2024
 Identify Key Blue Voting Areas
 
 # Voting
-### Analyzising voter turn out for 2020 Presidential election in New Hampshire
+### Analyzising voter turn out for 2024 Presidential election in New Hampshire
 
 Use MySQL to discover deep blue voter areas over 50% in New Hampshire Presidential Election 2020
 
